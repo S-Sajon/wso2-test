@@ -1,0 +1,4 @@
+[package]
+org = "sajon"
+name = "wso2_test"
+version = "0.1.0"
